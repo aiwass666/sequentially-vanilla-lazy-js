@@ -1,7 +1,7 @@
 # sequentially-vanilla-lazy-js
 A vanilla Javascript to load scripts sequentially.
 
-Add the following code to your footer inside <script> tags and you are good to go:
+Add the following code to your footer inside <script></script> tags and you are good to go:
 
 ```javascript
 // Lazy load javascripts sequentially.
