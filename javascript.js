@@ -1,4 +1,4 @@
-// Lazy load javascripts scripts sequentially.
+// Lazy load javascripts sequentially.
 // Made by Aiwass666 (https://github.com/aiwass666)
 const scripts = [
 {
