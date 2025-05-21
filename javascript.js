@@ -1,4 +1,3 @@
-<script>
 // Lazy load javascripts scripts sequentially.
 // Made by Aiwass666 (https://github.com/aiwass666)
 const scripts = [
@@ -34,4 +33,3 @@ script.onload = () => lazyLoadScripts(index + 1);
 document.body.appendChild(script);
 }
 lazyLoadScripts();
-</script>
