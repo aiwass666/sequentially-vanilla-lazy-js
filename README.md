@@ -5,7 +5,7 @@ Add the following code to your footer and you are good to go:
 
 ```
 <script>
-// Lazy load scripts sequentially.
+// Lazy load javascripts sequentially.
 // Made by Aiwass666 (https://github.com/aiwass666)
 const scripts = [
 {
