@@ -5,7 +5,8 @@ Add the following code to your footer and you are good to go:
 
 ```
 <script>
-// Lazy load scripts sequentially. Made by Aiwass666 (https://github.com/aiwass666)
+// Lazy load scripts sequentially.
+// Made by Aiwass666 (https://github.com/aiwass666)
 const scripts = [
 {
 src: "https://url-to.js",
